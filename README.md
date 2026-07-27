@@ -1,7 +1,7 @@
-<html><head><title>Coke's Page</title>
+<!DOCTYPE html>
+<html lang="en"><head><title>Coke's Page</title>
 <meta charset="UTF-8">
-<meta name="viewport"
-content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Piss's profile</title>
 <style>
 *{margin:3;
@@ -24,12 +24,9 @@ color:#ffffff;}
 <body>
 <div class="1">
 <h1 style="text-align: center; color:#ff00ff;">𓂸𓂸𓂸𓂸𓂸𓂸𓂸</h1>
-<h1 style="text-align: center;"><3 𝐏𝐢𝐬𝐬 ♥ Ԑ> up in this bitch</h1>
-<img
-width="120"
-height="120"
-src="https://cdn.discordapp.com/attachments/1418800212989968465/1530040158702014484/IMG_8929.png?ex=6a64c930&is=6a6377b0&hm=2f7858f5b9eb2fb086cfac8e56fd9933b04ac9ccf187d5babf6b891a8b0e929a&71a64c6286ab.jpg">
-</img>
+<h1 style="text-align: center;">&lt;3 𝐏𝐢𝐬𝐬 ♥ Ԑ&gt; up in this bitch</h1>
+<img width="120" height="120" src="https://cdn.discordapp.com/attachments/1418800212989968465/1530040158702014484/IMG_8929.png?ex=6a64c930&amp;is=6a6377b0&amp;hm=2f7858f5b9eb2fb086cfac8e56fd9933b04ac9ccf187d5babf6b891a8b0e929a&amp;71a64c6286ab.jpg">
+
 </div>
 <div class="clock-container">
 <br>
@@ -58,11 +55,11 @@ updateClock();
 <br>
 <h2>About</h2>
 <p>⠢Name: Chris (Piss)
-<html lang="en">
-<head>
-</head>
-<body>
-<div id="age-container"></div>
+
+
+
+
+</p><div id="age-container"></div>
 <script>
 function updateAge() {
 const birthDate = new Date("2010-09-01");
@@ -72,8 +69,8 @@ const monthDiff = today.getMonth() - birthDate.getMonth();
 if(monthDiff<0||(monthDiff===0&& today.getDate()<birthDate.getDate())) {age--;}document.getElementById("age-container").textContent=`⠢Age: ${age}`;}updateAge();
 setInterval(updateAge, 24 * 60 * 60 * 1000);
 </script>
-</body>
-</html>
+
+
 <p>⠢Sex: Male</p>
 <p>⠢Birth: 9-1</p>
 <p>⠢Nicknames: Can of Soup, Coke</p>
@@ -121,8 +118,8 @@ cursor: pointer;}
 .next-btn
 {right: 10px;}
 </style>
-</head>
-<body>
+
+
 <div class="quote-box">
 <div class="slide active">
 <p class="quote">There’s a reason for literally everything, but most are hard to find.</p>
@@ -182,44 +179,34 @@ text-decoration:underline;}
 <div class="zoom-box-wrapper">
 <div class="zoomable-content" id="zoomContent">
 <a href="https://youtube.com/@jimmyboy999">
-YT:
-</a>
+YT:</a>
  <a href="https://www.discord.com/users/1261456725555544155" target="_blank">Discord:</a>
 <a href="https://poopfart999.newgrounds.com/" target="_blank">NewGrounds:</a>
 <a href="https://www.instagram.com/surperior_wolf/" target="_blank">IG:</a>
-<a href="https://discord.gg/qvwH9p3aeR" >
-Half-Anarchy Discord Server:
-</a>
+<a href="https://discord.gg/qvwH9p3aeR">
+Half-Anarchy Discord Server:</a>
 <a href="https://discord.gg/ZKznjexeBj">
 Anarchy Discord Server:</a>
 <a "href="https://discord.gg/bBvK9wn92R">
-Very-Anarchy Discord Server:
-</a>
+Very-Anarchy Discord Server:</a>
 <a href="https://ig.me/j/AbYW9006aTb5rSde/">
-Banana Land Group chat IG:
-</a>
+Banana Land Group chat IG:</a>
 <a href="https://ig.me/j/AbYrD5-tfNPxZZSc/">
-USA Group chat IG:
-</a>
+USA Group chat IG:</a>
 <a href="https://ig.me/j/AbZwjUIyBxtSnSGG/">
-Meme Group chat IG:
-</a>
+Meme Group chat IG:</a>
 <a href="https://www.amazon.com/Epic-Anthology-legal-issues-version/dp/B0F88YMBFX">
-Stupid Book:
-</a>
+Stupid Book:</a>
 <a href="https://open.spotify.com/playlist/0wqttKwk3abkj56Ryq2xYP">
-Some 90s playlist:
-</a>
+Some 90s playlist:</a>
 <a href="https://open.spotify.com/playlist/5Vwr7uD6Yj4xyEIOWRktTY">
-Mista Playlist:
-</a>
+Mista Playlist:</a>
 <a href="https://open.spotify.com/playlist/7ha5j7ibg2ddJUstSP6Pzl">
-Mista 2 Playlist:
-</a>
+Mista 2 Playlist:</a>
 <a href="https://open.spotify.com/playlist/4OILXP077Y0DgmeS38hbEo">
-70s and 80s Playlist:
+70s and 80s Playlist:</a>
 <a href="https://discord.gg/4aYf3Jb7r">
-Sigma Server (by Cringe):
+Sigma Server (by Cringe):</a>
 <a href="https://discord.gg/c4XxE58R">
 Orgy group chat discord:
 </a>
@@ -227,5 +214,5 @@ Orgy group chat discord:
 </div>
 </div>
 <title>Piss's profile</title>
-<body>
-</html>
+
+</body></html>
